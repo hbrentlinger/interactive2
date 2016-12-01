@@ -41,6 +41,11 @@ center {
 	top: 20%;
 	z-index: 1;
 	bottom: 200px;
+}
 
+#dani {
+  width: 100px;
+  height: 100px;
+  background-color: white;
 
 }
