@@ -8,6 +8,10 @@ word-spacing: 50px;
 
 
 a {
+	font-family: quicksand;
+font-size: 12pt;
+word-spacing: 50px;
+	color: #db9e35;
 	text-decoration: none;
 	color: #105c63;
 }
