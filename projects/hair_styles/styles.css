@@ -1,0 +1,52 @@
+
+
+body {
+	background-color: #fce0bb;
+}
+
+	#two {
+	height: 250px;
+	width: 50%;
+	background-color: #332532;
+	float: left;
+}
+
+
+#r1c1 {
+	height: 250px;
+	width: 50%;
+	background-color: #332532;
+	float: left;
+}
+
+#r1c2 {
+	height: 250px;
+	width: 50%;
+	background-color: #332532;
+	float: left;
+	position: relative;
+}
+
+
+
+#new {
+	height: 250px;
+	width: 50%;
+	background-color: #f77a52;
+	float: left;
+}
+
+#title {
+	width: 50%;
+	float: left;
+	position: 
+}
+
+#orange {
+	width: 50%;
+	height: 250px;
+	background-color: #f77a52;
+	float: left;
+}
+
+

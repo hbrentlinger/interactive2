@@ -1,0 +1,273 @@
+
+
+body {
+	background-color: #fce0bb;
+}
+
+h1 {
+	font-family: 'Lilita One', cursive;
+	font-size: 16pt;
+	padding: 3%;
+	color: #332532;
+	letter-spacing: .4;
+	margin-top: 80%;
+}
+
+.stack1 {
+    display: inline-block;
+    position: relative;
+    height: 250px;
+    width: 250px;
+   transition: ease-in;
+}
+
+.stack2 {
+    display: inline-block;
+    position: relative;
+    height: 500px;
+    width: 250px;
+}
+
+.stack3 {
+    display: inline-block;
+    position: relative;
+    height: 250px;
+    width: 500px;
+}
+
+
+
+h2 {
+	font-family: 'Lilita One', cursive;
+	font-size: 16pt;
+	padding: 3%;
+	color: #332532;
+	letter-spacing: .4;
+	margin-top: 30%
+}
+
+
+
+
+
+
+#r1c1 {
+
+
+	background-color: #332532;
+	float: left;
+
+}
+
+#r1c2 {
+
+	background-color: #fce0bb;
+	float: left;
+	position: relative;
+
+}
+#r2c1 {
+
+	background-color: #f77a52;
+	float: left;
+
+}
+
+#r2c3 {
+	background-color: #f79653;
+	float: left;
+
+}
+
+#r2c2 {
+	height: 250px;
+	width: 250px;
+	float: left;
+	position: relative;
+	background: url('../images/dots1.png');
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#r2c2:hover {
+	background: url('../images/dots.gif');
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+#r2c3 {
+
+	background-color: #ff974f;
+	float: left;
+	position: relative;
+	background: url('../images/cut1.png');
+	background-size: 250px; 
+    background-repeat: no-repeat;
+}
+
+#r2c4 {
+	background-color: #ff974f;
+	float: left;
+	position: relative;
+	
+}
+
+#r3c1 {
+
+	background-color: #fce0bb;
+	float: left;
+	position: relative;
+	background: url('../images/cut2.png');
+	background-size: 250px; 
+    background-repeat: no-repeat;
+    bottom:250px;
+   
+	
+
+}
+
+#r3c2 {
+
+	background-color: #f77a52;
+	float: left;
+	position: relative;
+	bottom: 250px;
+
+	
+}
+
+#r4c2 {
+
+	background-color: #644d52;
+	float: left;
+	position: relative;
+	
+
+	
+}
+
+#fill {
+
+	background-color: #332532;
+	float: left;
+	position: relative;
+	bottom: 250px;
+
+}
+
+
+
+#r4c3 {
+
+	float: left;
+	position: relative;
+	background: url('../images/swirls1.png');
+	background-size: 500px 250px;
+    background-repeat: no-repeat;
+}
+
+#r4c3:hover {
+	background: url('../images/swirls.gif');
+    background-size: 500px 250px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#r4c4 {
+
+	background-color: #644d52;
+	float: left;
+	position: relative;
+	bottom: 250px;
+
+
+}
+
+#r5c1 {
+
+	background-color: #f77a52;
+	float: left;
+	position: relative;
+	
+
+	
+}
+
+#r5c2 {
+
+	background-color: #332532;
+	float: left;
+	position: relative;
+	bottom: 250px;
+
+}
+
+#row5c3 {
+
+	background-color: #644d53;
+	float: left;
+	position: relative;
+	background: url('../images/cut3.png');
+	background-size: 250px; 
+    background-repeat: no-repeat;
+    bottom: 250px;
+
+
+}
+
+#r6c2 {
+
+    background-color: #ff974f;
+    float: left;
+    position: relative;
+    bottom:250px;
+
+
+}
+
+#r6c3 {
+	float: left;
+	position: relative;
+	background: url('../images/diamond.png');
+	background-size: 250px 250px;
+    background-repeat: no-repeat;
+
+}
+
+#r6c3:hover {
+	background: url('../images/diamond.gif');
+	background-size: 250px 250px;
+    background-repeat: no-repeat;
+}
+
+#r7c1 {
+
+    background-color: #ff974f;
+    float: left;
+
+    position: relative;
+    bottom: 250px;
+}
+
+
+#r7c2 {
+
+	background-color: #332532;
+	float: left;
+	position: relative;
+		background: url('../images/cut4.png');
+	background-size: 250px;
+    background-repeat: no-repeat;
+    bottom: 250px;
+
+}
+#r7c3 {
+
+	background-color: #f77a52;
+	float: left;
+	position: relative;
+
+}
+
+
