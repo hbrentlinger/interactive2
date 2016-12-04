@@ -1,8 +1,11 @@
 h1 {
-font-family: futura;
+font-family: quicksand;
 font-size: 10pt;
-word-spacing: 50px;
-	color: #db9e35;
+word-spacing: 20px;
+color: #db9e35;
+position: relative;
+top: 100px;
+
 }
 
 h3 {
@@ -34,6 +37,7 @@ a:hover {
 	position: fixed;
 	top:0;
 	left: 0;
+	z-index: 10;
 }
 
 
@@ -83,7 +87,7 @@ a:hover {
 
 
 #content {
-	margin-bottom: 200px;
+
 	left: 0;
 }
 
@@ -93,12 +97,14 @@ margin-left: 50px;
 }
 
 #videos {
-	margin: 50px;
-	margin-top: 100px;
+
+	margin-top: 300px;
+	max-width: 700px;
+	margin-bottom: 200px;
 }
 
 #vidtit {
-	top: 300px;
+	top: 250px;
 }
 
 .vidspace {
@@ -107,11 +113,7 @@ margin-left: 50px;
 	float: left;
 }
 
-#menu {
-
-	padding: 50px;
-	text-align: center;
-	margin-top: 50px;
 
 
-}
+
+
