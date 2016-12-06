@@ -8,6 +8,16 @@ top: 100px;
 
 }
 
+h2 {
+font-family: quicksand;
+font-size: 10pt;
+color: #128085;
+position: relative;
+width: 150px;
+
+
+}
+
 h3 {
 	font-family: garamond;
 	font-size: 9pt;
@@ -100,7 +110,7 @@ margin-left: 50px;
 
 	margin-top: 300px;
 	max-width: 700px;
-	margin-bottom: 200px;
+	margin-bottom: 400px;
 }
 
 #vidtit {
@@ -111,9 +121,25 @@ margin-left: 50px;
 	margin: auto;
 	padding:25px;
 	float: left;
+position: relative;
+bottom: 200px;
 }
 
+#covers {
+	width: 1200px;
+	margin-top: 200px;
 
 
+}
+
+.book {
+	margin: 10px;
+	width: 250px;
+}
+
+#ref {
+	margin-top: 150px;
+	margin-left: 120px;
+}
 
 

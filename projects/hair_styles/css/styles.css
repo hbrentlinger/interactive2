@@ -4,6 +4,10 @@ body {
 	background-color: #fce0bb;
 }
 
+#container {
+width: 1200px;
+margin: auto;
+}
 h1 {
 	font-family: 'Lilita One', cursive;
 	font-size: 16pt;
@@ -16,36 +20,24 @@ h1 {
 .stack1 {
     display: inline-block;
     position: relative;
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
    transition: ease-in;
 }
 
 .stack2 {
     display: inline-block;
     position: relative;
-    height: 500px;
-    width: 250px;
+    height: 600px;
+    width: 300px;
 }
 
 .stack3 {
     display: inline-block;
     position: relative;
-    height: 250px;
-    width: 500px;
+    height: 300px;
+    width: 600px;
 }
-
-
-
-h2 {
-	font-family: 'Lilita One', cursive;
-	font-size: 16pt;
-	padding: 3%;
-	color: #332532;
-	letter-spacing: .4;
-	margin-top: 30%
-}
-
 
 
 
@@ -80,8 +72,8 @@ h2 {
 }
 
 #r2c2 {
-	height: 250px;
-	width: 250px;
+	height: 300px;
+	width: 300px;
 	float: left;
 	position: relative;
 	background: url('../images/dots1.png');
@@ -102,12 +94,12 @@ h2 {
 	float: left;
 	position: relative;
 	background: url('../images/cut1.png');
-	background-size: 250px; 
+	background-size: 300px; 
     background-repeat: no-repeat;
 }
 
 #r2c4 {
-	background-color: #ff974f;
+	background-color: #644d52;
 	float: left;
 	position: relative;
 	
@@ -119,9 +111,9 @@ h2 {
 	float: left;
 	position: relative;
 	background: url('../images/cut2.png');
-	background-size: 250px; 
+	background-size: 300px; 
     background-repeat: no-repeat;
-    bottom:250px;
+    bottom:300px;
    
 	
 
@@ -132,7 +124,7 @@ h2 {
 	background-color: #f77a52;
 	float: left;
 	position: relative;
-	bottom: 250px;
+	bottom: 300px;
 
 	
 }
@@ -152,7 +144,7 @@ h2 {
 	background-color: #332532;
 	float: left;
 	position: relative;
-	bottom: 250px;
+	bottom: 300px;
 
 }
 
@@ -163,13 +155,13 @@ h2 {
 	float: left;
 	position: relative;
 	background: url('../images/swirls1.png');
-	background-size: 500px 250px;
+	background-size: 600px 300px;
     background-repeat: no-repeat;
 }
 
 #r4c3:hover {
 	background: url('../images/swirls.gif');
-    background-size: 500px 250px;
+    background-size: 600px 300px;
     background-repeat: no-repeat;
     float: left;
 }
@@ -179,7 +171,7 @@ h2 {
 	background-color: #644d52;
 	float: left;
 	position: relative;
-	bottom: 250px;
+	bottom: 300px;
 
 
 }
@@ -199,7 +191,7 @@ h2 {
 	background-color: #332532;
 	float: left;
 	position: relative;
-	bottom: 250px;
+	bottom: 300px;
 
 }
 
@@ -209,9 +201,9 @@ h2 {
 	float: left;
 	position: relative;
 	background: url('../images/cut3.png');
-	background-size: 250px; 
+	background-size: 300px; 
     background-repeat: no-repeat;
-    bottom: 250px;
+    bottom: 300px;
 
 
 }
@@ -221,7 +213,7 @@ h2 {
     background-color: #ff974f;
     float: left;
     position: relative;
-    bottom:250px;
+    bottom:300px;
 
 
 }
@@ -230,14 +222,14 @@ h2 {
 	float: left;
 	position: relative;
 	background: url('../images/diamond.png');
-	background-size: 250px 250px;
+	background-size: 300px 300px;
     background-repeat: no-repeat;
 
 }
 
 #r6c3:hover {
 	background: url('../images/diamond.gif');
-	background-size: 250px 250px;
+	background-size: 300px 300px;
     background-repeat: no-repeat;
 }
 
@@ -247,7 +239,7 @@ h2 {
     float: left;
 
     position: relative;
-    bottom: 250px;
+    bottom: 300px;
 }
 
 
@@ -257,9 +249,9 @@ h2 {
 	float: left;
 	position: relative;
 		background: url('../images/cut4.png');
-	background-size: 250px;
+	background-size: 300px;
     background-repeat: no-repeat;
-    bottom: 250px;
+    bottom: 300px;
 
 }
 #r7c3 {
