@@ -13,7 +13,7 @@ font-family: quicksand;
 font-size: 10pt;
 color: #128085;
 position: relative;
-width: 150px;
+width: 600px
 
 
 }
@@ -99,6 +99,7 @@ a:hover {
 #content {
 
 	left: 0;
+	margin-top:200px;
 }
 
 #pic {
@@ -127,18 +128,20 @@ bottom: 200px;
 
 #covers {
 	width: 1200px;
-	margin-top: 200px;
+	margin-top: 100px;
+
 
 
 }
 
 .book {
 	margin: 10px;
-	width: 250px;
+	width: 350px;
+
 }
 
 #ref {
-	margin-top: 150px;
+	
 	margin-left: 120px;
 }
 

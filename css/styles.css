@@ -1,51 +1,148 @@
 h1 {
-	margin-top: 20px;
-  font-family: 'Playfair Display', serif;
-  font-size: 50pt;
-  font-style: italic;
-  font-weight: bold;
-  letter-spacing: normal;
-  line-height: 68px;
-  text-transform: none;
-  width: 50%;
+font-family: quicksand;
+font-size: 10pt;
+word-spacing: 20px;
+color: #db9e35;
+position: relative;
+top: 100px;
+
 }
 
 h2 {
-  margin-top: 120px;
-  font-family: Lato, sans-serif;
-  font-size: 11pt;
-  font-style: normal;
-  font-weight: bold;
-  letter-spacing: 1.39999997615814px;
-  line-height: 17px;
-  text-transform: uppercase;
+font-family: quicksand;
+font-size: 10pt;
+color: #128085;
+position: relative;
+width: 600px
+
+
+}
+
+h3 {
+	font-family: garamond;
+	font-size: 9pt;
+	margin-top: 200px;
+	margin-bottom: 200px;
+	width: 40%;
+	text-align: left;
+	margin: auto;
+	float: left;
+}
+
+
+
+a {
+	text-decoration: none;
+	color: #105c63;
 }
 
 a:hover {
-	color: #46BDAF;
 	text-decoration: none;
+	color: #db9e35;
 }
-a{
-	color: black;
-	text-decoration: none;
-
-}
-
-center {
-	padding-top: 2%;
-}
-
-
-#logo {
-	left: 40%;
-	top: 20%;
-	z-index: 1;
-	bottom: 200px;
+#header {
+	width: 100%;
+	height: 40px;
+	background-color: #128085;
+	position: fixed;
+	top:0;
+	left: 0;
+	z-index: 10;
 }
 
-#dani {
-  width: 100px;
-  height: 100px;
-  background-color: white;
+
+
+#footer {
+	width: 100%;
+	height: 10px;
+	background-color: #128085;
+	position: fixed;
+	bottom:0;
+	left:0;
+}
+
+#left {
+	width: 10px;
+	height: 100%;
+	background-color: #128085;
+	position: fixed;
+	bottom:0;
+	right:0;
+}
+
+#right {
+	width: 10px;
+	height: 100%;
+	background-color: #128085;
+	position: fixed;
+	bottom:0;
+	left:0;
+}
+
+
+#header_text {
+	margin-top:12px;
 
 }
+
+.text {
+	margin-left:150px;
+	margin-top: 150px;
+}
+
+.text2 {
+	margin-left:200px;
+	margin-top: 300px;
+}
+
+
+#content {
+
+	left: 0;
+	margin-top:200px;
+}
+
+#pic {
+float: right;
+margin-left: 50px;
+}
+
+#videos {
+
+	margin-top: 300px;
+	max-width: 700px;
+	margin-bottom: 400px;
+}
+
+#vidtit {
+	top: 250px;
+}
+
+.vidspace {
+	margin: auto;
+	padding:25px;
+	float: left;
+position: relative;
+bottom: 200px;
+}
+
+#covers {
+	width: 1200px;
+	margin-top: 100px;
+
+
+
+}
+
+.book {
+	margin: 10px;
+	width: 350px;
+
+}
+
+#ref {
+	
+	margin-left: 120px;
+}
+
+
