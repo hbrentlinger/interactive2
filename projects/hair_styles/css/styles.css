@@ -15,6 +15,14 @@ height: 2000px;
 
 }
 
+h1 {
+    font-family: gill sans;
+    color: #644d52;
+    font-size: 11pt;
+    margin-top: 80px;
+    width: 420px;
+}
+
 
 .stack1 {
     display: inline-block;
@@ -438,7 +446,7 @@ bottom: 300px;
     background-color: #ff974f;
     float: left;
     position: relative;
-    bottom: 1511px;
+    bottom: 1506px;
     left: 300px;
     background: url(../images/cut7.png);
     background-size: 300px;
@@ -456,9 +464,9 @@ bottom: 300px;
     background: url(../images/cut8.png);
     background-size: 300px;
     background-repeat: no-repeat;
-    bottom: 1205px;
-    right: 900;
-    }
+    bottom: 1200px;
+    right: 900px;
+}
 
 #r11c2 {
     background-color: #;
@@ -523,8 +531,8 @@ bottom: 300px;
 #r14c2 {
     background-color: #332532;
     position: relative;
-    left: 146px;
-    bottom: 2403px;
+    left: 144px;
+    bottom: 2400px;
 }
 
 #r14c3     {
@@ -560,9 +568,8 @@ bottom: 300px;
     background-color: #f77a52;
     position: relative;
     left: 454px;
-    bottom: 4213px;
+    bottom: 4212px;
 }
-
 
 #r15c3 {
     background: url(../images/cut9.png);
