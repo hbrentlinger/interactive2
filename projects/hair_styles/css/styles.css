@@ -1,21 +1,20 @@
 
 
+html {
+	width:100%;
+	height:100%;
+
+}
 body {
 	background-color: #fce0bb;
 }
 
 #container {
 width: 1200px;
-margin: auto;
+height: 2000px;
+
 }
-h1 {
-	font-family: 'Lilita One', cursive;
-	font-size: 16pt;
-	padding: 3%;
-	color: #332532;
-	letter-spacing: .4;
-	margin-top: 80%;
-}
+
 
 .stack1 {
     display: inline-block;
@@ -154,17 +153,11 @@ h1 {
 
 	float: left;
 	position: relative;
-	background: url('../images/swirls1.png');
+background-color: #f77a52;
 	background-size: 600px 300px;
     background-repeat: no-repeat;
 }
 
-#r4c3:hover {
-	background: url('../images/swirls.gif');
-    background-size: 600px 300px;
-    background-repeat: no-repeat;
-    float: left;
-}
 
 #r4c4 {
 
@@ -197,10 +190,10 @@ h1 {
 
 #row5c3 {
 
-	background-color: #644d53;
+	background-color: #332532;
 	float: left;
 	position: relative;
-	background: url('../images/cut3.png');
+	
 	background-size: 300px; 
     background-repeat: no-repeat;
     bottom: 300px;
@@ -219,18 +212,10 @@ h1 {
 }
 
 #r6c3 {
-	float: left;
-	position: relative;
-	background: url('../images/diamond.png');
-	background-size: 300px 300px;
-    background-repeat: no-repeat;
-
-}
-
-#r6c3:hover {
-	background: url('../images/diamond.gif');
-	background-size: 300px 300px;
-    background-repeat: no-repeat;
+    float: left;
+    position: relative;
+    background-color: #f77a52;
+    bottom: 300px;
 }
 
 #r7c1 {
@@ -248,7 +233,7 @@ h1 {
 	background-color: #332532;
 	float: left;
 	position: relative;
-		background: url('../images/cut4.png');
+		background: url('../images/cut3.png');
 	background-size: 300px;
     background-repeat: no-repeat;
     bottom: 300px;
@@ -259,7 +244,345 @@ h1 {
 	background-color: #f77a52;
 	float: left;
 	position: relative;
-
+    bottom: 300px;
+    left: 300px;
 }
 
 
+#r7c4 {
+
+	background-color: #ff974f;
+	float: left;
+	position: relative;
+    bottom: 600px;
+    float: left;
+	position: relative;
+	background: url('../images/swirls1.png');
+	background-size: 600px 300px;
+    background-repeat: no-repeat;
+}
+
+#r7c4:hover {
+	background: url('../images/swirls.gif');
+    background-size: 600px 300px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#r8c1 {
+
+	background-color: #ff974f;
+	right: 300px;
+	background: url('../images/cut4.png');
+	background-size: 300px;
+    background-repeat: no-repeat;
+	float: left;
+bottom: 300px;
+	position: relative;
+    }
+
+    #r8c2 {
+
+    background-color: #644d52;
+    float: left;
+    position: relative;
+    bottom: 600px;
+    right: 600px;
+   
+    }
+
+    #r8c3 {
+    	    background-color: #f77a52;
+    float: left;
+    position: relative;
+        bottom: 600px;
+
+
+    }
+
+    #r8c4 {
+    	    background-color: #332532;
+    float: left;
+    position: relative;
+        bottom: 900px;
+  
+
+    }
+
+    #r9c1 {
+
+    background-color: #332532;
+	float: left;
+	position: relative;
+    bottom: 300px;	
+	float: left;
+	position: relative;
+    bottom: 600px;
+    left: 300px;
+
+    }
+
+#r9c3 {
+    background-color: #ff974f;
+    float: left;
+    position: relative;
+    bottom: 900px;
+    left: 300px;
+
+    }
+
+#r9c4 {
+	float: left;
+	position: relative;
+	background: url('../images/circles.png');
+	background-size: 300px 600px;
+    background-repeat: no-repeat;
+    bottom: 900px;
+    
+}
+
+#r9c4:hover {
+	background: url('../images/circles.gif');
+	background-size: 300px 600px;
+    background-repeat: no-repeat;
+}
+
+#r10c1 {
+	    background-color: #f77a52;
+    float: left;
+    position: relative;
+    bottom:900px;
+
+}
+
+    #r10c2 {
+
+    background-color: #332532;
+    background: url('../images/cut5.png');
+	right: 600px;
+	background-size: 300px;
+    background-repeat: no-repeat;
+	float: left;
+	position: relative;
+    bottom: 900px;	
+    left: 1px;
+	float: left;
+	position: relative;
+
+    }
+
+#r10c3 {
+	 background-color: #ff974f;
+    float: left;
+    position: relative;
+    bottom: 1200px;
+}
+
+#r10c4 {
+    background-color: #332532;
+    float: left;
+    position: relative;
+    bottom: 1801px;
+    left: 302px;
+
+}
+
+#r10c5 {
+    background-color: #f77a52;
+    float: left;
+    position: relative;
+    bottom: 1501px;
+}
+
+#r11c1 {
+	    background-color: #332532;
+    background: url('../images/cut6.png');
+	background-size: 300px;
+    background-repeat: no-repeat;
+	float: left;
+	position: relative;
+    bottom: 1200px;	
+    left: 1px;
+	float: left;
+	position: relative;
+
+
+}
+ 
+
+#r11c3 {
+    background-color: #332532;
+    float: left;
+    position: relative;
+    bottom: 900px;
+    right: 600px;
+}
+
+#r11c4 {
+	background-color: #644d52;;
+	float: left;
+	position: relative;
+	bottom: 1800px;
+	left: 300px;
+}
+
+#r11c5 {
+    background-color: #644d52;
+    float: left;
+    position: relative;
+    bottom: 1500px;
+    left: 300px;
+}
+
+#r12c1 {
+    background-color: #ff974f;
+    float: left;
+    position: relative;
+    bottom: 1511px;
+    left: 300px;
+    background: url(../images/cut7.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+}
+
+#r12c2 {
+    background-color: #644d52;
+    float: left;
+    position: relative;
+    right: 300px;
+    bottom: 305px;
+}
+#r12c4 {
+    background: url(../images/cut8.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    bottom: 1205px;
+    right: 900;
+    }
+
+#r11c2 {
+    background-color: #;
+    float: left;
+    position: relative;
+    bottom: 1501px;
+}
+
+#r11c3 {
+    background-color: #332532;
+    float: left;
+    position: relative;
+    bottom: 600px;
+    right: 900px;
+}
+
+#r13c1 {
+    background-color: #332532;
+    float: left;
+    position: relative;
+    bottom: 2100;
+    left: 300px;
+}
+
+#r13c2 {
+    background-color: #ff974f;
+    float: left;
+    position: relative;
+    bottom: 2409px;
+    left: 300px; 
+}
+
+#r13c3 {
+    background-color: #644d52;
+    float: left;
+    position: relative;
+    bottom: 1204px;
+}
+
+#r13c4 {
+    background-color: #332532;
+    position: relative;
+    bottom: 1800;
+    left: 154px;
+}
+
+
+#r13c5 {
+    background-color: #ff974f;
+    position: relative;
+    bottom: 2409px;
+    left: 150px;
+}
+
+#r14c1 {
+    background-color: #ff974f;
+    position: relative;
+    bottom: 2400px;
+    right: 150px;
+}
+
+#r14c2 {
+    background-color: #332532;
+    position: relative;
+    left: 146px;
+    bottom: 2403px;
+}
+
+#r14c3     {
+    background-color: #ff974f;
+    position: relative;
+    right: 0;
+    bottom: 2412px;
+}
+
+#fill2 {
+    background-color: #644d52;
+    position: relative;
+    left: 298px;
+    bottom: 3915px;
+}
+
+#r14c4     { 
+    background-color: #f77a52;
+    position: relative;
+    bottom: 3012px;
+    left: 153px;
+}
+
+#r15c1     { 
+    background-color: #f77a52;
+    position: relative;
+    left: 148px;
+    bottom: 3312px;
+}
+
+
+#r15c2    {
+    background-color: #f77a52;
+    position: relative;
+    left: 454px;
+    bottom: 4213px;
+}
+
+
+#r15c3 {
+    background: url(../images/cut9.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    bottom: 3317px;
+    left: 451px;
+
+}
+
+#fill3 {
+    background-color: #644d52;
+    position: relative;
+    left: 145px;
+    bottom: 6312px;
+}
+
+#fill4 {
+    background-color: #644d52;
+    position: relative;
+    right: 450;
+    bottom: 3620px;
+}
