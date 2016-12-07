@@ -17,7 +17,7 @@ height: 2000px;
 
 h1 {
     font-family: gill sans;
-    color: #644d52;
+    color: #644d52e;
     font-size: 11pt;
     margin-top: 80px;
     width: 420px;
@@ -100,7 +100,7 @@ h1 {
 	background-color: #ff974f;
 	float: left;
 	position: relative;
-	background: url('../images/cut1.png');
+	background: url('../images/cut.png');
 	background-size: 300px; 
     background-repeat: no-repeat;
 }
