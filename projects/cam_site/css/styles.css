@@ -1,0 +1,41 @@
+#sidebar {
+background-color: white;
+width: 200px;
+height: 100%;
+left: 0;
+top: 0;
+position: fixed;
+z-index: 10;
+}
+
+
+
+#bio {
+	width: 400px;
+	font-size: 6pt;
+	text-align: left;
+	font-family: Montserrat;
+	font-size: 18pt;
+	right: 50px;
+	top:50px;
+	color: #453e0a;
+	font-style: none;
+width: 500px;
+	margin-top:100px;
+
+}
+
+#name {
+		width: 170px;
+	font-size: 1pt;
+	text-align: left;
+	font-family: bungee;
+	font-size: 18pt;
+	right: 50px;
+	top:50px;
+	color: #453e0a;
+	font-style: none;
+width: 500px;
+	margin-top:100px;
+
+}
